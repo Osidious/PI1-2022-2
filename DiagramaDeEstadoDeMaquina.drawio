@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T00:04:02.416Z" agent="5.0 (Windows)" etag="lJO64s31OzgH5oMzzymL" version="20.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T00:12:55.161Z" agent="5.0 (Windows)" etag="hyD3-B_e1F6cyfNsm87T" version="20.8.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="866" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -28,8 +28,12 @@
         <mxCell id="apIbsZUHLHdbpMD473yB-8" value="Exibe a Tela de login" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="260" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yH__HNOzTVynDghvWRE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.788;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-11" target="apIbsZUHLHdbpMD473yB-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5yH__HNOzTVynDghvWRE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.056;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-11" target="apIbsZUHLHdbpMD473yB-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-11" value="Acessa Dados" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="520" width="140" height="40" as="geometry" />
@@ -96,14 +100,10 @@
           <mxGeometry x="550" y="480" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-24" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="805" y="630" width="30" height="30" as="geometry" />
+          <mxGeometry x="805" y="625" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="apIbsZUHLHdbpMD473yB-55" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-33" target="apIbsZUHLHdbpMD473yB-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="570" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="5yH__HNOzTVynDghvWRE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-33" target="apIbsZUHLHdbpMD473yB-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-33" value="Avaliação" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750" y="520" width="140" height="40" as="geometry" />
@@ -128,31 +128,31 @@
         <mxCell id="apIbsZUHLHdbpMD473yB-43" value="&lt;div&gt;Se ainda existem experimentos&lt;/div&gt;&lt;div&gt;&amp;nbsp;a concluir&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810" y="310" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="apIbsZUHLHdbpMD473yB-47" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-44" target="apIbsZUHLHdbpMD473yB-24" edge="1">
+        <mxCell id="5yH__HNOzTVynDghvWRE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-44" target="apIbsZUHLHdbpMD473yB-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="apIbsZUHLHdbpMD473yB-48" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-44" target="apIbsZUHLHdbpMD473yB-8" edge="1">
+        <mxCell id="5yH__HNOzTVynDghvWRE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-44" target="apIbsZUHLHdbpMD473yB-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="560.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="600" />
+              <mxPoint x="40" y="640" />
+              <mxPoint x="40" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-44" value="" style="rhombus;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="625" width="40" height="40" as="geometry" />
+          <mxGeometry x="600" y="620" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-49" value="Desliga o Totem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="620" width="110" height="30" as="geometry" />
+          <mxGeometry x="660" y="612.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-50" value="Volta a tela de login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="620" width="130" height="30" as="geometry" />
+          <mxGeometry x="450" y="612.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-57" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-56" target="apIbsZUHLHdbpMD473yB-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;fontSize=12;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="677.5" y="560" width="5" height="80" as="geometry" />
+          <mxGeometry x="617.5" y="545" width="5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="apIbsZUHLHdbpMD473yB-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="apIbsZUHLHdbpMD473yB-58" target="apIbsZUHLHdbpMD473yB-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
