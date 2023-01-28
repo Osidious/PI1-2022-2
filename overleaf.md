@@ -1,6 +1,6 @@
 # Requisitos Não Funcionais
 | Identificador | Requisito | Prioridade |
-| :-: |:-:|:-:|
+|:-:|-|-|
 |RNF01|	O tempo de resposta entre o estudante selecionar um experimento e o mesmo ser carregado não deve exceder 3 segundos.|	Alta
 |RNF02|	O sistema deve funcionar sem falha durante ao menos 90% de seus casos de uso durante o período de um mês.           |	Alta
 |RNF03| O tempo médio para restaurar o sistema após uma falha de sistema não deve exceder 10 minutos.	                      | Alta
